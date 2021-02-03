@@ -1,0 +1,9 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+	"name": "PHP 7",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"felixfbecker.php-debug",
+		"felixfbecker.php-intellisense"
+	]
+}
